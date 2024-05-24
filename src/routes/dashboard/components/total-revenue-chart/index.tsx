@@ -152,7 +152,7 @@ export const DashboardTotalRevenueChart: React.FC = () => {
           }}
         >
           <DollarOutlined />
-          <Text size="sm">Total revenue (yearly)</Text>
+          <Text size="sm">Sustainability Index (yearly)</Text>
         </div>
       }
     >
